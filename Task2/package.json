@@ -2,7 +2,7 @@
   "name": "task2",
   "version": "1.0.0",
   "main": "fidget.js",
-  "description": npm install fidget 
+  "description": "npm install fidget",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
